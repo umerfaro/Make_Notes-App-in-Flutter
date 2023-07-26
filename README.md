@@ -1,3 +1,6 @@
+
+https://github.com/umerfaro/Make_Notes-App-in-Flutter/assets/90244353/ce023f7c-ae01-48d3-b1e5-5a572abab244
+
 Key Features:
 📌 Full CRUD Operations: I've implemented the Create, Read, Update, and Delete operations to allow users to add, view, modify, and delete their notes seamlessly.
 
@@ -8,3 +11,4 @@ Key Features:
 📌 User Sessions: I've taken care of maintaining user sessions, ensuring a smooth and hassle-free experience each time users access the app.
 
 📌 Multiple Login Options: To cater to a wide range of users, I've integrated login methods such as Google, phone number, and email login, offering flexibility and convenience
+
